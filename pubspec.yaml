@@ -1,0 +1,22 @@
+name: fullscreen_demo
+description: Flutter home demo with local H5 detail page for mobile presentation.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  web: ^1.1.1
+  webview_flutter: ^4.8.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/html/detail.html
