@@ -1,4 +1,4 @@
-package com.example.fullscreen_demo
+package com.control.platform.mobile
 
 import io.flutter.embedding.android.FlutterActivity
 

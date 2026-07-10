@@ -1,11 +1,11 @@
 {
-    "name": "fullscreen_demo",
-    "short_name": "fullscreen_demo",
+    "name": "管控平台手机端",
+    "short_name": "管控平台",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "管控平台手机端 Flutter 应用",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
